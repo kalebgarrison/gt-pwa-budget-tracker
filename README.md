@@ -21,11 +21,11 @@ Any feedback can be provided via email at [kalebgarrison@gmail.com](mailto:kaleb
 
 ## Usage 
 
-[Heroku Deployed Site](https://polar-headland-83987.herokuapp.com/)
+[Heroku Deployed Site](https://cryptic-sierra-87485.herokuapp.com/)
 
-[GitHub Repo Site](https://github.com/kalebgarrison/gt-fitness-tracker)
+[GitHub Repo Site](https://github.com/kalebgarrison/gt-pwa-budget-tracker)
 
-![alt text](assets/images/fitnesstracker.png) 
+![alt text](assets/images/budgettracker.png) 
 
 
 
